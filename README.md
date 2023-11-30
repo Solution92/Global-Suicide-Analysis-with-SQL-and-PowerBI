@@ -1,6 +1,8 @@
 
 # Global Suicide Analysis with SQL and PowerBI
 
+![6](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/bfece8c0-d3c9-42a1-a6b9-12795dffa014)
+
 ## Table of Content
 
 - [Project Objective](#project-objective)
@@ -144,25 +146,44 @@ ORDER BY year, sex;
 
 The Global Suicide Analysis is summarized below
 
-Image
+![1](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/066674b1-235c-4522-b2f8-405edea19f43)
+
+Yearly Suicide
+
 
 -  From the visual above — Total Suicide by Year, At 260,429, 2003 had the highest Total Suicide and was 9.79% higher than 2006, which had the lowest Total Suicide at 237,200.
 -  2003 accounted for 10.56% of Total Suicides. Across all 10 years, Total Suicides ranged from 237,200 to 260,429. 
 
-Image 2
+
+![2](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/d71d2dc2-d824-4d2c-8ece-6d1d3846142f)
+
+Suicide by Age
+
 
 - At 2,895,388, 35–54 years had the highest Total Suicide and was 4,473.21% higher than 5–14 years, which had the lowest Total Suicide at 63,312.
 - 35–54 years accounted for 36.07% of Total Suicides. Across all 6 ages, Total Suicides ranged from 63,312 to 2,895,388.
 
-Image 3
 
-- Sum of year and Total Suicide diverged the most when the sex was female when the Sum of the year was 41,840,950 higher than Total Suicide.
+![3](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/c4e01453-8041-4cb1-8080-33bf2434d3a3)
 
-Image 4
+Male and Female Suicidal Comparison
+
+
+- Sum of Year and Total Suicide diverged the most when the sex was female when the Sum of the year was 41,840,950 higher than Total Suicide.
+
+
+![4](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/0ba882ca-db91-4bdb-a965-c95e55c280df)
+
+Suicide (% Distribution)
+
 
 - 35–54 years accounted for 36.07% of Total Suicides as seen in the visual above.
 
-Image 5
+
+![5](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/cba14ff6-9af6-46dd-8ac2-e03c4c505135)
+
+Countries with High/Low Suicidal Rate
+
 
 - Total Suicide and total Country Suicide Rate are negatively correlated with each other.
 - The Russian Federation accounted for 18.70% of Total Suicides.
@@ -171,7 +192,9 @@ Image 5
 
 ### The Dashboard
 
-Image 6
+
+![6](https://github.com/Solution92/Global-Suicide-Analysis-with-SQL-and-PowerBI/assets/144762124/4d190bcb-74d6-4820-b9c6-45c7cfc9fbca)
+
 
 ### Recommendation
 
