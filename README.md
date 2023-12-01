@@ -64,6 +64,7 @@ With the help of statistical graphics and other data visualization methods, I ha
 
 This is the query process taken to analyze the dataset on PostgreSQL.
 
+~~~SQL
 
 --To call up the entire table for inspection.
 SELECT * FROM SUICIDE;
@@ -141,6 +142,8 @@ SUM(suicides_no) AS total_suicides
 FROM SUICIDE
 GROUP BY year, sex
 ORDER BY year, sex;
+
+~~~
 
 ### Result and Findings
 
